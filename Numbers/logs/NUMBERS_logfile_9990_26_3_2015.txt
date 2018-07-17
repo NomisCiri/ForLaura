@@ -1,0 +1,6 @@
+Response forwards	[8, 8]	[8, 8]	[8, 8, 8]	
+Correct	0	0	0	
+Response backwards	[8, 8]	[8, 8]	
+Correct backwards	0	0	
+Score Forwards	1	
+Score Backwards	2	
