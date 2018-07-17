@@ -15,6 +15,7 @@ in a different one - the "development" branch.
 If you have questions i am happy to help.
 
 # Files
+
 You find different folders in this repository. 
 two of them contain the python scripts you already have.
 they run with <strong> PYSCHOPY WHICH RUNS ON PYTHON VERSION 2.7 </strong>.
@@ -26,5 +27,6 @@ to a database. Best is MySQL.
 you can find a good tutourial for this on https://www.jspsych.org/
 
 #MoreStuff
+
 Feel Free to add more notes here :)
 Have Fun
